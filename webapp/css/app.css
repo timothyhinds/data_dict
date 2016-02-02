@@ -1,0 +1,65 @@
+
+.facts td{
+	cursor:pointer;
+	height:88px;
+	width:88px;
+	text-align:center;
+	border:1px solid #aaa;
+}
+
+.facts .column{
+	height:27.5px;
+}
+.facts .row{
+	width:27.5px;
+}
+
+.facts .column, #facts td.row{
+	background-color:#eee;
+	color:#000000;
+	cursor:auto;
+}
+
+.facts .column.row{
+	background-color:#fff;
+	color:#fff;
+	border-left:none;
+	border-top:none;
+}
+
+.grey {
+	background-color:#aaa;
+	color:#fff;	
+}
+
+.blue {
+	background-color:#9cf;
+	color:#000;	
+}
+
+.darkblue {
+	background-color:#036;
+	color:#fff;	
+}
+
+.green {
+	background-color:#cf9;
+	color:#000;	
+}
+
+.red {
+	background-color:#e66;
+	color:#fff;
+}
+
+
+
+
+// Your CSS Below
+
+
+
+
+
+
+
